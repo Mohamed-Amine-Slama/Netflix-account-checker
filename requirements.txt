@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+urllib3>=2.1.0
+lxml>=4.9.0
+# Optional CAPTCHA bypass dependencies (uncomment as needed):
+selenium>=4.0.0
+undetected-chromedriver>=3.5.0
